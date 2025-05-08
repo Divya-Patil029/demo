@@ -1,2 +1,2 @@
-# demo
-this is my first fit repository
+#Repository
+this is my first git repository
